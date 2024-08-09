@@ -27,7 +27,7 @@ Follow these instructions to get the project up and running on your local machin
 
    ```bash
    git clone https://github.com/Oslinjohn20/AdminDashUi-shadcn
-   cd repository-name
+   cd AdminDashUi-shadcn
 
 ### Run application 
 
@@ -40,4 +40,4 @@ Open http://localhost:3000 to view it in the browser.
 
 ## Deployed on Vercel
 
-Checkout the live link to this UI hosted on Vercel [text](https://admin-dash-ui-shadcn.vercel.app/)
+Checkout the live link to this UI hosted on Vercel [Live Link](https://admin-dash-ui-shadcn.vercel.app/)
